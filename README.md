@@ -18,6 +18,10 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 * Sem restrições de uso ou recursos / *No usage or feature restrictions*
 
 
+### Informações / *Further Information*
+* Usuário Administrativo (*Administrative User*): ADM, senha (*password*): 123
+* Usuário Padrão (*Standard User*): USR, senha (*password*): 456
+
 ### 🛠️ Construído com / *Built with*
 * [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi) 12.1 Athens
 
