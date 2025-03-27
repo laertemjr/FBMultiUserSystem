@@ -31,6 +31,6 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 
 
 ### 📄 Licença / *License*
-* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/MonoUserSystem/blob/main/LICENSE.md) para detalhes.
-* *This project is licensed under *The Unlicense* - see the [LICENSE.md](https://github.com/laertemjr/MonoUserSystem/blob/main/LICENSE.md) file for details.*
+* Veja o arquivo [LICENSE.md](https://github.com/laertemjr/gitMultiUserSystem/tree/mainLICENSE.md) para detalhes.
+* *See the [LICENSE.md](https://github.com/laertemjr/gitMultiUserSystem/tree/main/LICENSE.md) file for details.*
 
