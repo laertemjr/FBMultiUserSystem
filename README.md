@@ -8,8 +8,8 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 
 
 ### 🔎 Testando o programa / *Testing the program*
-* Para testar o programa (portátil), basta fazer o download do arquivo executável, juntamente com o arquivo do banco de dados Firebird, ambos acessíveis a partir da pasta [Win32/Debug](https://github.com/laertemjr/gitMultiUserSystem/tree/main/Win32/Debug) deste repositório.
-* *To test the program (portable), simply download the executable file, along with the Firebird database file, both accessible from the [Win32/Debug](https://github.com/laertemjr/gitMultiUserSystem/tree/main/latest_version/) folder of this repository.*
+* Para testar o programa (portátil), basta fazer o download do arquivo executável, juntamente com o arquivo do banco de dados Firebird, ambos acessíveis a partir da pasta [latest_version](https://github.com/laertemjr/gitMultiUserSystem/tree/main/latest_version/) deste repositório.
+* *To test the program (portable), simply download the executable file, along with the Firebird database file, both accessible from the [latest_version](https://github.com/laertemjr/gitMultiUserSystem/tree/main/latest_version/) folder of this repository.*
 
 
 ### 👉 Características / *Features*
