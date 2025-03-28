@@ -10,7 +10,7 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 ### 👉 Características / *Features*
 * Cadastro de Clientes minimalista / *Minimalist Customer Registration*
 * Uso intuitivo / *Intuitive use*
-* Sem restrições de uso ou recursos / *No usage or feature restrictions*
+* Sem restrições de tempo de uso ou recursos / *No time or feature restrictions*
 
 
 ### Informações / *Further Information*
