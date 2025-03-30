@@ -11,7 +11,7 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 * Sem restrições de tempo de uso ou de limitação de recursos / *No time restrictions or resource limitations*
 
 
-### Informações / *Further Information*
+### ℹ️ Informações / *Further Information*
 * Usuário Administrativo (*Administrative User*): ADM, senha (*password*): 123
 * Usuário Padrão (*Standard User*): USR, senha (*password*): 456
 
