@@ -8,9 +8,7 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 
 
 ### 👉 Características / *Features*
-* Cadastro de Clientes minimalista / *Minimalist Customer Registration*
-* Uso intuitivo / *Intuitive use*
-* Sem restrições de tempo de uso ou recursos / *No time or feature restrictions*
+* Sem restrições de tempo de uso ou de limitação de recursos / *No time restrictions or resource limitations*
 
 
 ### Informações / *Further Information*
@@ -22,6 +20,6 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 
 
 ### 📄 Licença / *License*
-* Veja o arquivo [LICENSE](https://github.com/laertemjr/gitMultiUserSystem/tree/main/LICENSE) para detalhes.
-* *See the [LICENSE](https://github.com/laertemjr/gitMultiUserSystem/tree/main/LICENSE) file for details.*
+* Este projeto está sob licença FREEWARE - veja o arquivo [LICENSE](https://github.com/laertemjr/gitMultiUserSystem/tree/main/LICENSE) para detalhes.
+* *This project is licensed under FREEWARE License - see the [LICENSE](https://github.com/laertemjr/gitMultiUserSystem/tree/main/LICENSE) file for details.*
 
