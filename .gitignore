@@ -27,6 +27,8 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
+*.r*
+*.p*
 *.d*
 *.zip
 *.exe
