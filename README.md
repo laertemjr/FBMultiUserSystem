@@ -11,7 +11,7 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 * Sem restrições de tempo de uso ou de limitação de recursos / *No time restrictions or resource limitations*
 
 
-### ℹ️ Informações do banco de dados  / *Databse Informations*
+### ℹ️ Informações do banco de dados  / *Database Informations*
 * Firebird 1.5
 * User_Name: SYSDBA
 * Password: masterkey
