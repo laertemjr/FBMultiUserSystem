@@ -1,4 +1,4 @@
-# FBMultiUserSystem
+# MultiUserSystem
  
 Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercial System Model with Firebird*
 <br/>
