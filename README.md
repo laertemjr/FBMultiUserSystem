@@ -1,6 +1,6 @@
 # MultiUserSystem
  
-Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercial System Model with Firebird*
+Modelo de Sistema Comercial multiusuário multi-bancos de dados | *Multi-user, multi-database business system model*
 <br/>
 <br/>
 ### 🖥️ Pré-requisitos / *System requirements*
@@ -11,7 +11,13 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 * Sem restrições de tempo de uso ou de limitação de recursos / *No time restrictions or resource limitations*
 
 
-### ℹ️ Informações do banco de dados  / *Database Information*
+### ℹ️ Suporte para os bancos de dados / *Support for databases*
+* Microsoft Acess
+* Firebird
+* Microsoft SQL Server
+
+
+### ℹ️ Informações do banco de dados Firebird / *Firebird Database Information*
 * Firebird 1.5
 * User_Name: SYSDBA
 * Password: masterkey
@@ -19,6 +25,11 @@ Modelo de Sistema Comercial multiusuário com o Firebird | *Multi-user Commercia
 * Server: 127.0.0.1
 * Port: 3015
 * CharacterSet: WIN1252
+
+
+### ℹ️ Informações para todos os banco de dados / *Information for all databases*
+
+
 * Usuário Administrativo (*Administrative User*): ADM, senha (*password*): 123
 * Usuário Padrão (*Standard User*): USR, senha (*password*): 456
 
