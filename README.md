@@ -13,9 +13,10 @@ Modelo de Sistema Comercial multiusuário multi-bancos de dados | *Multi-user, m
 
 
 ### ℹ️ Suporte para os bancos de dados / *Support for databases*
-* Microsoft Acess
 * Firebird
+* Microsoft Access
 * Microsoft SQL Server
+* MySQL Server
 
 
 ### ℹ️ Informações do banco de dados Firebird / *Firebird Database Information*
