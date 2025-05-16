@@ -1,7 +1,7 @@
 # MultUS
 
 
-Modelo de Sistema Comercial multiusuário multi-bancos de dados | *Multi-user, multi-database business system model*
+Modelo de Sistema Comercial Multiusuário Multi-Bancos de Dados | *Multi-user, multi-database business system model*
 <br/>
 <br/>
 ### 🖥️ Pré-requisitos / *System requirements*
@@ -19,19 +19,7 @@ Modelo de Sistema Comercial multiusuário multi-bancos de dados | *Multi-user, m
 * MySQL Server
 
 
-### ℹ️ Informações do banco de dados Firebird / *Firebird Database Information*
-* Firebird 1.5
-* User_Name: SYSDBA
-* Password: masterkey
-* Protocol: TCPIP
-* Server: 127.0.0.1
-* Port: 3015
-* CharacterSet: WIN1252
-
-
-### ℹ️ Informações para todos os banco de dados / *Information for all databases*
-
-
+### ℹ️ Informação para o banco de dados MS-Access / *Information for MS-Access database*
 * Usuário Administrativo (*Administrative User*): ADM, senha (*password*): 123
 * Usuário Padrão (*Standard User*): USR, senha (*password*): 456
 
