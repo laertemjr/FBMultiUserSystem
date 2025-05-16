@@ -19,11 +19,6 @@ Modelo de Sistema Comercial Multiusuário Multi-Bancos de Dados | *Multi-user, m
 * MySQL Server
 
 
-### ℹ️ Informação para o banco de dados MS-Access / *Information for MS-Access database*
-* Usuário Administrativo (*Administrative User*): ADM, senha (*password*): 123
-* Usuário Padrão (*Standard User*): USR, senha (*password*): 456
-
-
 ### 🛠️ Construído com / *Built with*
 * [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi) 12.1 Athens
 
